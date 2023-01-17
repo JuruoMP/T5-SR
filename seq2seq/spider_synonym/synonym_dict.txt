@@ -1,0 +1,4782 @@
+{
+    "perpetrator": {
+        "original": [
+            "perpetrator",
+            "date",
+            "year",
+            "country",
+            "injured",
+            "height"
+        ],
+        "synonym": [
+            "culprit",
+            "day_of_the_month",
+            "twelvemonth",
+            "nation",
+            "wound",
+            "tallness"
+        ]
+    },
+    "college_2": {
+        "original": [
+            "building",
+            "number",
+            "course",
+            "title",
+            "id",
+            "salary",
+            "year",
+            "time",
+            "cred",
+            "grade",
+            "day"
+        ],
+        "synonym": [
+            "edifice",
+            "figure",
+            "course_of_study",
+            "statute_title",
+            "gem_state",
+            "pay",
+            "twelvemonth",
+            "clip",
+            "street_cred",
+            "form",
+            "twenty-four_hours"
+        ]
+    },
+    "flight_company": {
+        "original": [
+            "id",
+            "city",
+            "country",
+            "icao",
+            "incorporated",
+            "group",
+            "number",
+            "date",
+            "pilot",
+            "velocity",
+            "altitude",
+            "airport"
+        ],
+        "synonym": [
+            "gem_state",
+            "metropolis",
+            "nation",
+            "icao",
+            "incorporate",
+            "grouping",
+            "figure",
+            "day_of_the_month",
+            "airplane_pilot",
+            "velocity",
+            "height",
+            "airdrome"
+        ]
+    },
+    "icfp_1": {
+        "original": [
+            "country",
+            "title"
+        ],
+        "synonym": [
+            "nation",
+            "statute_title"
+        ]
+    },
+    "body_builder": {
+        "original": [
+            "body",
+            "builder",
+            "snatch",
+            "clean",
+            "jerk",
+            "total",
+            "height",
+            "date",
+            "place"
+        ],
+        "synonym": [
+            "organic_structure",
+            "detergent_builder",
+            "bit",
+            "clean",
+            "dork",
+            "total",
+            "tallness",
+            "day_of_the_month",
+            "place"
+        ]
+    },
+    "storm_record": {
+        "original": [
+            "storm",
+            "date",
+            "active",
+            "speed",
+            "damage",
+            "million",
+            "number",
+            "death",
+            "region",
+            "code",
+            "city",
+            "affected"
+        ],
+        "synonym": [
+            "violent_storm",
+            "day_of_the_month",
+            "active",
+            "velocity",
+            "harm",
+            "1000000",
+            "figure",
+            "decease",
+            "part",
+            "codification",
+            "metropolis",
+            "impact"
+        ]
+    },
+    "pilot_record": {
+        "original": [
+            "year",
+            "manufacturer",
+            "model",
+            "pilot",
+            "position",
+            "join",
+            "team",
+            "date"
+        ],
+        "synonym": [
+            "twelvemonth",
+            "maker",
+            "theoretical_account",
+            "airplane_pilot",
+            "place",
+            "join",
+            "squad",
+            "day_of_the_month"
+        ]
+    },
+    "race_track": {
+        "original": [
+            "clas",
+            "date",
+            "track",
+            "seating",
+            "year",
+            "opened"
+        ],
+        "synonym": [
+            "category",
+            "day_of_the_month",
+            "track",
+            "seats",
+            "twelvemonth",
+            "open_up"
+        ]
+    },
+    "academic": {
+        "original": [
+            "aid",
+            "homepage",
+            "cid",
+            "did",
+            "kid",
+            "abstract",
+            "citation",
+            "pid",
+            "reference",
+            "title",
+            "year",
+            "cited",
+            "citing"
+        ],
+        "synonym": [
+            "assistance",
+            "homepage",
+            "cid",
+            "do",
+            "kid",
+            "abstract",
+            "commendation",
+            "pid",
+            "reference",
+            "statute_title",
+            "twelvemonth",
+            "advert",
+            "advert"
+        ]
+    },
+    "department_store": {
+        "original": [
+            "addres",
+            "detail",
+            "gender",
+            "supplier",
+            "phone",
+            "store",
+            "chain",
+            "customer",
+            "code",
+            "email",
+            "product",
+            "price",
+            "date",
+            "statu",
+            "department",
+            "item",
+            "supplied",
+            "total",
+            "amount",
+            "purchased",
+            "assigned",
+            "title"
+        ],
+        "synonym": [
+            "computer_address",
+            "inside_information",
+            "grammatical_gender",
+            "provider",
+            "phone",
+            "store",
+            "concatenation",
+            "client",
+            "codification",
+            "e-mail",
+            "ware",
+            "price",
+            "day_of_the_month",
+            "position",
+            "section",
+            "point",
+            "provide",
+            "total",
+            "sum_of_money",
+            "purchase",
+            "designate",
+            "statute_title"
+        ]
+    },
+    "music_4": {
+        "original": [
+            "artist",
+            "famou",
+            "title",
+            "date",
+            "week",
+            "song",
+            "id",
+            "ceremony",
+            "category",
+            "result"
+        ],
+        "synonym": [
+            "creative_person",
+            "famed",
+            "statute_title",
+            "day_of_the_month",
+            "hebdomad",
+            "vocal",
+            "gem_state",
+            "ceremonial",
+            "category",
+            "effect"
+        ]
+    },
+    "insurance_fnol": {
+        "original": [
+            "customer",
+            "code",
+            "phone",
+            "date",
+            "opened",
+            "closed",
+            "effective",
+            "settlement",
+            "amount"
+        ],
+        "synonym": [
+            "client",
+            "codification",
+            "phone",
+            "day_of_the_month",
+            "open_up",
+            "shut",
+            "effectual",
+            "settlement",
+            "sum_of_money"
+        ]
+    },
+    "cinema": {
+        "original": [
+            "film",
+            "number",
+            "title",
+            "original",
+            "date",
+            "code",
+            "cinema",
+            "year",
+            "price"
+        ],
+        "synonym": [
+            "film",
+            "figure",
+            "statute_title",
+            "master_copy",
+            "day_of_the_month",
+            "codification",
+            "cinema",
+            "twelvemonth",
+            "price"
+        ]
+    },
+    "decoration_competition": {
+        "original": [
+            "member",
+            "country",
+            "round",
+            "decoration",
+            "theme"
+        ],
+        "synonym": [
+            "fellow_member",
+            "nation",
+            "unit_of_ammunition",
+            "ornament",
+            "topic"
+        ]
+    },
+    "phone_market": {
+        "original": [
+            "phone",
+            "carrier",
+            "price",
+            "market",
+            "district",
+            "shop"
+        ],
+        "synonym": [
+            "phone",
+            "bearer",
+            "price",
+            "marketplace",
+            "territory",
+            "store"
+        ]
+    },
+    "store_product": {
+        "original": [
+            "product",
+            "minute",
+            "color",
+            "store",
+            "area",
+            "number",
+            "category",
+            "district",
+            "city"
+        ],
+        "synonym": [
+            "ware",
+            "min",
+            "colour",
+            "store",
+            "country",
+            "figure",
+            "category",
+            "territory",
+            "metropolis"
+        ]
+    },
+    "assets_maintenance": {
+        "original": [
+            "addres",
+            "detail",
+            "maintenance",
+            "date",
+            "part",
+            "chargeable",
+            "amount",
+            "skill",
+            "code",
+            "description",
+            "gender",
+            "asset",
+            "supplier",
+            "make",
+            "model",
+            "acquired",
+            "engineer",
+            "first",
+            "last",
+            "fault",
+            "recorded",
+            "statu"
+        ],
+        "synonym": [
+            "computer_address",
+            "inside_information",
+            "maintenance",
+            "day_of_the_month",
+            "portion",
+            "indictable",
+            "sum_of_money",
+            "accomplishment",
+            "codification",
+            "verbal_description",
+            "grammatical_gender",
+            "plus",
+            "provider",
+            "make",
+            "theoretical_account",
+            "acquire",
+            "applied_scientist",
+            "number_one",
+            "finale",
+            "error",
+            "enter",
+            "position"
+        ]
+    },
+    "student_assessment": {
+        "original": [
+            "addres",
+            "city",
+            "postcode",
+            "state",
+            "province",
+            "country",
+            "person",
+            "first",
+            "middle",
+            "last",
+            "mobile",
+            "number",
+            "email",
+            "password",
+            "student",
+            "detail",
+            "course",
+            "description",
+            "date",
+            "registration",
+            "attendance",
+            "candidate",
+            "qualification",
+            "assessment",
+            "outcome",
+            "code"
+        ],
+        "synonym": [
+            "computer_address",
+            "metropolis",
+            "zip",
+            "province",
+            "province",
+            "nation",
+            "individual",
+            "number_one",
+            "centre",
+            "finale",
+            "mobile_river",
+            "figure",
+            "e-mail",
+            "watchword",
+            "pupil",
+            "inside_information",
+            "course_of_study",
+            "verbal_description",
+            "day_of_the_month",
+            "enrollment",
+            "attending",
+            "candidate",
+            "making",
+            "assessment",
+            "resultant",
+            "codification"
+        ]
+    },
+    "dog_kennels": {
+        "original": [
+            "breed",
+            "code",
+            "amount",
+            "description",
+            "treatment",
+            "owner",
+            "first",
+            "last",
+            "city",
+            "state",
+            "email",
+            "addres",
+            "home",
+            "phone",
+            "number",
+            "date",
+            "gender",
+            "arrived",
+            "adopted",
+            "departed",
+            "professional",
+            "role"
+        ],
+        "synonym": [
+            "strain",
+            "codification",
+            "sum_of_money",
+            "verbal_description",
+            "intervention",
+            "proprietor",
+            "number_one",
+            "finale",
+            "metropolis",
+            "province",
+            "e-mail",
+            "computer_address",
+            "place",
+            "phone",
+            "figure",
+            "day_of_the_month",
+            "grammatical_gender",
+            "get",
+            "follow",
+            "dead_soul",
+            "professional_person",
+            "office"
+        ]
+    },
+    "music_1": {
+        "original": [
+            "rating",
+            "artist",
+            "country",
+            "gender",
+            "file",
+            "duration",
+            "format",
+            "song",
+            "language",
+            "resolution"
+        ],
+        "synonym": [
+            "valuation",
+            "creative_person",
+            "nation",
+            "grammatical_gender",
+            "data_file",
+            "continuance",
+            "formatting",
+            "vocal",
+            "linguistic_communication",
+            "declaration"
+        ]
+    },
+    "company_employee": {
+        "original": [
+            "headquarter",
+            "sale",
+            "billion",
+            "profit",
+            "market",
+            "year",
+            "working"
+        ],
+        "synonym": [
+            "central_office",
+            "gross_revenue",
+            "one_million_million",
+            "net",
+            "marketplace",
+            "twelvemonth",
+            "workings"
+        ]
+    },
+    "farm": {
+        "original": [
+            "city",
+            "official",
+            "statu",
+            "area",
+            "censu",
+            "year",
+            "total",
+            "horse",
+            "working",
+            "cattle",
+            "oxen",
+            "cow",
+            "pig",
+            "goat",
+            "theme"
+        ],
+        "synonym": [
+            "metropolis",
+            "functionary",
+            "position",
+            "country",
+            "nose_count",
+            "twelvemonth",
+            "total",
+            "equus_caballus",
+            "workings",
+            "cows",
+            "cows",
+            "cows",
+            "pig",
+            "caprine_animal",
+            "topic"
+        ]
+    },
+    "solvency_ii": {
+        "original": [
+            "addres",
+            "detail",
+            "product",
+            "code",
+            "price",
+            "party",
+            "asset",
+            "channel",
+            "role",
+            "document"
+        ],
+        "synonym": [
+            "computer_address",
+            "inside_information",
+            "ware",
+            "codification",
+            "price",
+            "political_party",
+            "plus",
+            "transmission_channel",
+            "office",
+            "written_document"
+        ]
+    },
+    "city_record": {
+        "original": [
+            "city",
+            "gdp",
+            "match",
+            "date",
+            "venue",
+            "score",
+            "result",
+            "jan",
+            "feb",
+            "mar",
+            "apr",
+            "aug",
+            "sep",
+            "oct",
+            "nov",
+            "dec",
+            "year"
+        ],
+        "synonym": [
+            "metropolis",
+            "gdp",
+            "lucifer",
+            "day_of_the_month",
+            "locale",
+            "grade",
+            "effect",
+            "jan",
+            "feb",
+            "mar",
+            "apr",
+            "aug",
+            "sep",
+            "oct",
+            "nov",
+            "dec",
+            "twelvemonth"
+        ]
+    },
+    "swimming": {
+        "original": [
+            "id",
+            "meter",
+            "time",
+            "city",
+            "country",
+            "opening",
+            "year",
+            "stadium",
+            "result"
+        ],
+        "synonym": [
+            "gem_state",
+            "metre",
+            "clip",
+            "metropolis",
+            "nation",
+            "gap",
+            "twelvemonth",
+            "bowl",
+            "effect"
+        ]
+    },
+    "flight_2": {
+        "original": [
+            "airline",
+            "country",
+            "city"
+        ],
+        "synonym": [
+            "air_hose",
+            "nation",
+            "metropolis"
+        ]
+    },
+    "election": {
+        "original": [
+            "code",
+            "party",
+            "year",
+            "comptroller",
+            "attorney",
+            "general",
+            "represented",
+            "district",
+            "first",
+            "committee"
+        ],
+        "synonym": [
+            "codification",
+            "political_party",
+            "twelvemonth",
+            "comptroller",
+            "attorney",
+            "full_general",
+            "stand_for",
+            "territory",
+            "number_one",
+            "commission"
+        ]
+    },
+    "manufactory_1": {
+        "original": [
+            "code",
+            "founder",
+            "revenue",
+            "price",
+            "manufacturer"
+        ],
+        "synonym": [
+            "codification",
+            "founder",
+            "revenue",
+            "price",
+            "maker"
+        ]
+    },
+    "debate": {
+        "original": [
+            "district",
+            "party",
+            "debate",
+            "date",
+            "venue"
+        ],
+        "synonym": [
+            "territory",
+            "political_party",
+            "argumentation",
+            "day_of_the_month",
+            "locale"
+        ]
+    },
+    "network_2": {
+        "original": [
+            "city",
+            "gender",
+            "job",
+            "year"
+        ],
+        "synonym": [
+            "metropolis",
+            "grammatical_gender",
+            "business",
+            "twelvemonth"
+        ]
+    },
+    "local_govt_in_alabama": {
+        "original": [
+            "code",
+            "detail"
+        ],
+        "synonym": [
+            "codification",
+            "inside_information"
+        ]
+    },
+    "climbing": {
+        "original": [
+            "mountain",
+            "height",
+            "range",
+            "country",
+            "time"
+        ],
+        "synonym": [
+            "mount",
+            "tallness",
+            "range",
+            "nation",
+            "clip"
+        ]
+    },
+    "e_learning": {
+        "original": [
+            "author",
+            "tutor",
+            "password",
+            "middle",
+            "family",
+            "gender",
+            "addres",
+            "student",
+            "date",
+            "registration",
+            "subject",
+            "course",
+            "description",
+            "enrolment",
+            "completion",
+            "test",
+            "result"
+        ],
+        "synonym": [
+            "author",
+            "private_instructor",
+            "watchword",
+            "centre",
+            "household",
+            "grammatical_gender",
+            "computer_address",
+            "pupil",
+            "day_of_the_month",
+            "enrollment",
+            "topic",
+            "course_of_study",
+            "verbal_description",
+            "enrollment",
+            "pass_completion",
+            "trial_run",
+            "effect"
+        ]
+    },
+    "scientist_1": {
+        "original": [
+            "code",
+            "project"
+        ],
+        "synonym": [
+            "codification",
+            "project"
+        ]
+    },
+    "ship_1": {
+        "original": [
+            "clas",
+            "built",
+            "year"
+        ],
+        "synonym": [
+            "category",
+            "build",
+            "twelvemonth"
+        ]
+    },
+    "entertainment_awards": {
+        "original": [
+            "year",
+            "artwork",
+            "result"
+        ],
+        "synonym": [
+            "twelvemonth",
+            "art",
+            "effect"
+        ]
+    },
+    "allergy_1": {
+        "original": [
+            "allergy",
+            "sex",
+            "advisor",
+            "city",
+            "code"
+        ],
+        "synonym": [
+            "allergic_reaction",
+            "sexual_practice",
+            "advisor",
+            "metropolis",
+            "codification"
+        ]
+    },
+    "imdb": {
+        "original": [
+            "aid",
+            "gender",
+            "city",
+            "year",
+            "id",
+            "cid",
+            "role",
+            "country",
+            "code",
+            "did",
+            "pid",
+            "title",
+            "kid"
+        ],
+        "synonym": [
+            "assistance",
+            "grammatical_gender",
+            "metropolis",
+            "twelvemonth",
+            "gem_state",
+            "cid",
+            "office",
+            "nation",
+            "codification",
+            "do",
+            "pid",
+            "statute_title",
+            "kid"
+        ]
+    },
+    "products_for_hire": {
+        "original": [
+            "coupon",
+            "date",
+            "issued",
+            "amount",
+            "customer",
+            "first",
+            "last",
+            "gender",
+            "became",
+            "booking",
+            "statu",
+            "code",
+            "hired",
+            "payable",
+            "discount",
+            "product",
+            "description",
+            "full"
+        ],
+        "synonym": [
+            "voucher",
+            "day_of_the_month",
+            "bring_out",
+            "sum_of_money",
+            "client",
+            "number_one",
+            "finale",
+            "grammatical_gender",
+            "go",
+            "booking",
+            "position",
+            "codification",
+            "engage",
+            "payable",
+            "price_reduction",
+            "ware",
+            "verbal_description",
+            "full-of-the-moon"
+        ]
+    },
+    "candidate_poll": {
+        "original": [
+            "candidate",
+            "poll",
+            "source",
+            "date",
+            "consider",
+            "unsure",
+            "sex",
+            "height"
+        ],
+        "synonym": [
+            "candidate",
+            "opinion_poll",
+            "origin",
+            "day_of_the_month",
+            "consider",
+            "shy",
+            "sexual_practice",
+            "tallness"
+        ]
+    },
+    "chinook_1": {
+        "original": [
+            "title",
+            "addres",
+            "city",
+            "state",
+            "country",
+            "phone",
+            "fax",
+            "email",
+            "total",
+            "quantity",
+            "millisecond"
+        ],
+        "synonym": [
+            "statute_title",
+            "computer_address",
+            "metropolis",
+            "province",
+            "nation",
+            "phone",
+            "facsimile_machine",
+            "e-mail",
+            "total",
+            "quantity",
+            "msec"
+        ]
+    },
+    "flight_4": {
+        "original": [
+            "rid",
+            "airline",
+            "city",
+            "country",
+            "x",
+            "y",
+            "elevation",
+            "icao",
+            "active"
+        ],
+        "synonym": [
+            "free",
+            "air_hose",
+            "metropolis",
+            "nation",
+            "10",
+            "y",
+            "lift",
+            "icao",
+            "active"
+        ]
+    },
+    "pets_1": {
+        "original": [
+            "sex",
+            "advisor",
+            "city",
+            "code"
+        ],
+        "synonym": [
+            "sexual_practice",
+            "advisor",
+            "metropolis",
+            "codification"
+        ]
+    },
+    "dorm_1": {
+        "original": [
+            "sex",
+            "advisor",
+            "city",
+            "code",
+            "dorm",
+            "student",
+            "gender",
+            "amenity",
+            "number"
+        ],
+        "synonym": [
+            "sexual_practice",
+            "advisor",
+            "metropolis",
+            "codification",
+            "dorm",
+            "pupil",
+            "grammatical_gender",
+            "amenity",
+            "figure"
+        ]
+    },
+    "journal_committee": {
+        "original": [
+            "journal",
+            "date",
+            "theme",
+            "sale",
+            "editor"
+        ],
+        "synonym": [
+            "journal",
+            "day_of_the_month",
+            "topic",
+            "gross_revenue",
+            "editor_in_chief"
+        ]
+    },
+    "flight_1": {
+        "original": [
+            "origin",
+            "destination",
+            "departure",
+            "date",
+            "arrival",
+            "price",
+            "aid",
+            "salary"
+        ],
+        "synonym": [
+            "origin",
+            "destination",
+            "going",
+            "day_of_the_month",
+            "reaching",
+            "price",
+            "assistance",
+            "pay"
+        ]
+    },
+    "medicine_enzyme_interaction": {
+        "original": [
+            "id",
+            "approved",
+            "product",
+            "medicine"
+        ],
+        "synonym": [
+            "gem_state",
+            "o.k.",
+            "ware",
+            "medical_specialty"
+        ]
+    },
+    "local_govt_and_lot": {
+        "original": [
+            "customer",
+            "detail",
+            "property",
+            "code",
+            "addres",
+            "resident",
+            "date",
+            "moved",
+            "organization",
+            "requested",
+            "provided",
+            "statu",
+            "time"
+        ],
+        "synonym": [
+            "client",
+            "inside_information",
+            "belongings",
+            "codification",
+            "computer_address",
+            "occupant",
+            "day_of_the_month",
+            "go",
+            "organisation",
+            "bespeak",
+            "provide",
+            "position",
+            "clip"
+        ]
+    },
+    "station_weather": {
+        "original": [
+            "id",
+            "train",
+            "number",
+            "origin",
+            "destination",
+            "time",
+            "interval",
+            "network",
+            "authority",
+            "week",
+            "wind",
+            "speed"
+        ],
+        "synonym": [
+            "gem_state",
+            "railroad_train",
+            "figure",
+            "origin",
+            "destination",
+            "clip",
+            "interval",
+            "web",
+            "authorization",
+            "hebdomad",
+            "air_current",
+            "velocity"
+        ]
+    },
+    "shop_membership": {
+        "original": [
+            "member",
+            "number",
+            "level",
+            "branch",
+            "open",
+            "year",
+            "addres",
+            "road",
+            "city",
+            "membership",
+            "amount",
+            "register",
+            "total",
+            "pound"
+        ],
+        "synonym": [
+            "fellow_member",
+            "figure",
+            "grade",
+            "subdivision",
+            "clear",
+            "twelvemonth",
+            "computer_address",
+            "route",
+            "metropolis",
+            "rank",
+            "sum_of_money",
+            "registry",
+            "total",
+            "lb"
+        ]
+    },
+    "driving_school": {
+        "original": [
+            "addres",
+            "number",
+            "building",
+            "city",
+            "postcode",
+            "state",
+            "province",
+            "country",
+            "nickname",
+            "first",
+            "middle",
+            "last",
+            "date",
+            "joined",
+            "detail",
+            "customer",
+            "statu",
+            "code",
+            "became",
+            "amount",
+            "email",
+            "phone",
+            "mobile",
+            "time",
+            "price"
+        ],
+        "synonym": [
+            "computer_address",
+            "figure",
+            "edifice",
+            "metropolis",
+            "zip",
+            "province",
+            "province",
+            "nation",
+            "moniker",
+            "number_one",
+            "centre",
+            "finale",
+            "day_of_the_month",
+            "fall_in",
+            "inside_information",
+            "client",
+            "position",
+            "codification",
+            "go",
+            "sum_of_money",
+            "e-mail",
+            "phone",
+            "mobile_river",
+            "clip",
+            "price"
+        ]
+    },
+    "concert_singer": {
+        "original": [
+            "stadium",
+            "lowest",
+            "average",
+            "singer",
+            "country",
+            "song",
+            "year",
+            "theme"
+        ],
+        "synonym": [
+            "bowl",
+            "last-place",
+            "norm",
+            "vocalist",
+            "nation",
+            "vocal",
+            "twelvemonth",
+            "topic"
+        ]
+    },
+    "music_2": {
+        "original": [
+            "title",
+            "aid",
+            "year",
+            "id",
+            "position"
+        ],
+        "synonym": [
+            "statute_title",
+            "assistance",
+            "twelvemonth",
+            "gem_state",
+            "place"
+        ]
+    },
+    "sports_competition": {
+        "original": [
+            "club",
+            "region",
+            "year",
+            "silver",
+            "total",
+            "player",
+            "position",
+            "trie",
+            "goal",
+            "country",
+            "score"
+        ],
+        "synonym": [
+            "ball_club",
+            "part",
+            "twelvemonth",
+            "ag",
+            "total",
+            "participant",
+            "place",
+            "effort",
+            "end",
+            "nation",
+            "grade"
+        ]
+    },
+    "railway": {
+        "original": [
+            "railway",
+            "builder",
+            "built",
+            "train",
+            "arrival",
+            "manager",
+            "country",
+            "working",
+            "year",
+            "level"
+        ],
+        "synonym": [
+            "railroad",
+            "detergent_builder",
+            "build",
+            "railroad_train",
+            "reaching",
+            "manager",
+            "nation",
+            "workings",
+            "twelvemonth",
+            "grade"
+        ]
+    },
+    "inn_1": {
+        "original": [
+            "decor",
+            "code",
+            "checkout",
+            "adult",
+            "kid"
+        ],
+        "synonym": [
+            "decor",
+            "codification",
+            "checkout",
+            "grownup",
+            "kid"
+        ]
+    },
+    "museum_visit": {
+        "original": [
+            "open",
+            "year",
+            "id",
+            "level",
+            "membership",
+            "visitor",
+            "total",
+            "spent"
+        ],
+        "synonym": [
+            "clear",
+            "twelvemonth",
+            "gem_state",
+            "grade",
+            "rank",
+            "visitant",
+            "total",
+            "pass"
+        ]
+    },
+    "browser_web": {
+        "original": [
+            "id",
+            "operating",
+            "connection",
+            "market",
+            "share",
+            "accelerator",
+            "year"
+        ],
+        "synonym": [
+            "gem_state",
+            "run",
+            "connexion",
+            "marketplace",
+            "portion",
+            "accelerator_pedal",
+            "twelvemonth"
+        ]
+    },
+    "baseball_1": {
+        "original": [
+            "player",
+            "year",
+            "team",
+            "league",
+            "gp",
+            "starting",
+            "g",
+            "defense",
+            "award",
+            "tie",
+            "vote",
+            "first",
+            "stint",
+            "g",
+            "ab",
+            "r",
+            "h",
+            "double",
+            "triple",
+            "hr",
+            "rbi",
+            "sb",
+            "c",
+            "bb",
+            "so",
+            "round",
+            "po",
+            "po",
+            "a",
+            "e",
+            "dp",
+            "pb",
+            "zr",
+            "needed",
+            "inducted",
+            "category",
+            "park",
+            "last",
+            "opening",
+            "attendance",
+            "w",
+            "l",
+            "half",
+            "month",
+            "country",
+            "state",
+            "city",
+            "death",
+            "given",
+            "height",
+            "bat",
+            "debut",
+            "alia",
+            "er",
+            "era",
+            "bk",
+            "salary",
+            "full",
+            "winner",
+            "loser",
+            "losse",
+            "tie",
+            "ra",
+            "ha",
+            "active"
+        ],
+        "synonym": [
+            "participant",
+            "twelvemonth",
+            "squad",
+            "conference",
+            "gp",
+            "starting",
+            "gramme",
+            "defence",
+            "awarding",
+            "tie",
+            "ballot",
+            "number_one",
+            "stint",
+            "gramme",
+            "ba",
+            "r",
+            "h",
+            "two-base_hit",
+            "three-base_hit",
+            "hr",
+            "rbi",
+            "sb",
+            "caesium",
+            "bb_shot",
+            "soh",
+            "unit_of_ammunition",
+            "po",
+            "po",
+            "angstrom_unit",
+            "tocopherol",
+            "dp",
+            "pb",
+            "zr",
+            "ask",
+            "invest",
+            "category",
+            "parkland",
+            "finale",
+            "gap",
+            "attending",
+            "wolfram",
+            "litre",
+            "half",
+            "month",
+            "nation",
+            "province",
+            "metropolis",
+            "decease",
+            "presumption",
+            "tallness",
+            "chiropteran",
+            "debut",
+            "assumed_name",
+            "er",
+            "epoch",
+            "bk",
+            "pay",
+            "full-of-the-moon",
+            "victor",
+            "also-ran",
+            "losses",
+            "tie",
+            "ra",
+            "ha",
+            "active"
+        ]
+    },
+    "architecture": {
+        "original": [
+            "id",
+            "gender",
+            "architect",
+            "meter",
+            "feet",
+            "built",
+            "year"
+        ],
+        "synonym": [
+            "gem_state",
+            "grammatical_gender",
+            "designer",
+            "metre",
+            "human_foot",
+            "build",
+            "twelvemonth"
+        ]
+    },
+    "csu_1": {
+        "original": [
+            "id",
+            "year",
+            "degree",
+            "discipline",
+            "undergraduate",
+            "graduate",
+            "faculty"
+        ],
+        "synonym": [
+            "gem_state",
+            "twelvemonth",
+            "grade",
+            "subject",
+            "undergrad",
+            "alumna",
+            "mental_faculty"
+        ]
+    },
+    "tracking_orders": {
+        "original": [
+            "customer",
+            "detail",
+            "invoice",
+            "number",
+            "date",
+            "statu",
+            "placed",
+            "product",
+            "item",
+            "shipment",
+            "tracking"
+        ],
+        "synonym": [
+            "client",
+            "inside_information",
+            "account",
+            "figure",
+            "day_of_the_month",
+            "position",
+            "set",
+            "ware",
+            "point",
+            "lading",
+            "tracking"
+        ]
+    },
+    "insurance_policies": {
+        "original": [
+            "customer",
+            "detail",
+            "code",
+            "date",
+            "made",
+            "settled",
+            "amount",
+            "settlement"
+        ],
+        "synonym": [
+            "client",
+            "inside_information",
+            "codification",
+            "day_of_the_month",
+            "do",
+            "settle_down",
+            "sum_of_money",
+            "settlement"
+        ]
+    },
+    "gas_company": {
+        "original": [
+            "headquarter",
+            "main",
+            "sale",
+            "billion",
+            "profit",
+            "market",
+            "open",
+            "year",
+            "manager",
+            "vice"
+        ],
+        "synonym": [
+            "central_office",
+            "briny",
+            "gross_revenue",
+            "one_million_million",
+            "net",
+            "marketplace",
+            "clear",
+            "twelvemonth",
+            "manager",
+            "vice"
+        ]
+    },
+    "e_government": {
+        "original": [
+            "addres",
+            "number",
+            "building",
+            "city",
+            "postcode",
+            "state",
+            "province",
+            "country",
+            "code",
+            "form",
+            "description",
+            "individual",
+            "first",
+            "middle",
+            "phone",
+            "email",
+            "last",
+            "organization",
+            "date",
+            "formed",
+            "party",
+            "completion",
+            "started",
+            "statu",
+            "fully",
+            "completed",
+            "booking",
+            "customer",
+            "made"
+        ],
+        "synonym": [
+            "computer_address",
+            "figure",
+            "edifice",
+            "metropolis",
+            "zip",
+            "province",
+            "province",
+            "nation",
+            "codification",
+            "word_form",
+            "verbal_description",
+            "individual",
+            "number_one",
+            "centre",
+            "phone",
+            "e-mail",
+            "finale",
+            "organisation",
+            "day_of_the_month",
+            "organize",
+            "political_party",
+            "pass_completion",
+            "begin",
+            "position",
+            "to_the_full",
+            "finish",
+            "booking",
+            "client",
+            "do"
+        ]
+    },
+    "school_bus": {
+        "original": [
+            "party",
+            "home",
+            "city",
+            "grade",
+            "year",
+            "working",
+            "full",
+            "time"
+        ],
+        "synonym": [
+            "political_party",
+            "place",
+            "metropolis",
+            "form",
+            "years",
+            "workings",
+            "full-of-the-moon",
+            "clip"
+        ]
+    },
+    "machine_repair": {
+        "original": [
+            "repair",
+            "date",
+            "making",
+            "year",
+            "clas",
+            "team",
+            "starting"
+        ],
+        "synonym": [
+            "fix",
+            "day_of_the_month",
+            "fashioning",
+            "twelvemonth",
+            "category",
+            "squad",
+            "starting"
+        ]
+    },
+    "theme_gallery": {
+        "original": [
+            "artist",
+            "country",
+            "year",
+            "join",
+            "theme",
+            "price",
+            "date",
+            "attendance"
+        ],
+        "synonym": [
+            "creative_person",
+            "nation",
+            "twelvemonth",
+            "join",
+            "topic",
+            "price",
+            "day_of_the_month",
+            "attending"
+        ]
+    },
+    "film_rank": {
+        "original": [
+            "film",
+            "title",
+            "director",
+            "gros",
+            "market",
+            "country",
+            "number",
+            "citie",
+            "estimation",
+            "estimate",
+            "year"
+        ],
+        "synonym": [
+            "film",
+            "statute_title",
+            "manager",
+            "144",
+            "marketplace",
+            "nation",
+            "figure",
+            "metropolis",
+            "estimate",
+            "estimation",
+            "twelvemonth"
+        ]
+    },
+    "party_people": {
+        "original": [
+            "region",
+            "date",
+            "format",
+            "catalogue",
+            "party",
+            "minister",
+            "office",
+            "member"
+        ],
+        "synonym": [
+            "part",
+            "day_of_the_month",
+            "formatting",
+            "catalogue",
+            "political_party",
+            "minister_of_religion",
+            "business_office",
+            "fellow_member"
+        ]
+    },
+    "hospital_1": {
+        "original": [
+            "position",
+            "head",
+            "physician",
+            "department",
+            "code",
+            "treatment",
+            "addres",
+            "phone",
+            "pcp",
+            "end",
+            "brand",
+            "description",
+            "medication",
+            "date",
+            "appointment",
+            "dose",
+            "procedure"
+        ],
+        "synonym": [
+            "place",
+            "caput",
+            "doc",
+            "section",
+            "codification",
+            "intervention",
+            "computer_address",
+            "phone",
+            "primary_care_provider",
+            "terminal",
+            "brand_name",
+            "verbal_description",
+            "medication",
+            "day_of_the_month",
+            "assignment",
+            "dosage",
+            "process"
+        ]
+    },
+    "customers_campaigns_ecommerce": {
+        "original": [
+            "premise",
+            "detail",
+            "product",
+            "category",
+            "customer",
+            "phone",
+            "email",
+            "addres",
+            "password",
+            "date",
+            "code",
+            "statu",
+            "shipping",
+            "placed",
+            "delivered",
+            "outcome",
+            "item",
+            "quantity"
+        ],
+        "synonym": [
+            "premiss",
+            "inside_information",
+            "ware",
+            "category",
+            "client",
+            "phone",
+            "e-mail",
+            "computer_address",
+            "watchword",
+            "day_of_the_month",
+            "codification",
+            "position",
+            "shipping",
+            "set",
+            "present",
+            "resultant",
+            "point",
+            "quantity"
+        ]
+    },
+    "gymnast": {
+        "original": [
+            "floor",
+            "exercise",
+            "horse",
+            "vault",
+            "parallel",
+            "bar",
+            "total",
+            "height"
+        ],
+        "synonym": [
+            "flooring",
+            "exercising",
+            "equus_caballus",
+            "burial_vault",
+            "analog",
+            "bars",
+            "total",
+            "tallness"
+        ]
+    },
+    "restaurants": {
+        "original": [
+            "city",
+            "region",
+            "id",
+            "food",
+            "rating",
+            "restaurant",
+            "number"
+        ],
+        "synonym": [
+            "metropolis",
+            "part",
+            "gem_state",
+            "nutrient",
+            "valuation",
+            "eating_house",
+            "figure"
+        ]
+    },
+    "mountain_photos": {
+        "original": [
+            "id",
+            "height",
+            "range",
+            "country",
+            "brand",
+            "camera",
+            "len",
+            "mountain",
+            "color"
+        ],
+        "synonym": [
+            "gem_state",
+            "tallness",
+            "range",
+            "nation",
+            "brand_name",
+            "photographic_camera",
+            "lense",
+            "mount",
+            "colour"
+        ]
+    },
+    "battle_death": {
+        "original": [
+            "id",
+            "date",
+            "commander",
+            "result",
+            "lost",
+            "battle",
+            "tonnage",
+            "disposition",
+            "caused",
+            "injured"
+        ],
+        "synonym": [
+            "gem_state",
+            "day_of_the_month",
+            "commandant",
+            "effect",
+            "lost",
+            "conflict",
+            "tunnage",
+            "temperament",
+            "do",
+            "wound"
+        ]
+    },
+    "cre_Doc_Control_Systems": {
+        "original": [
+            "document",
+            "code",
+            "description",
+            "role",
+            "addres",
+            "detail",
+            "statu",
+            "shipping",
+            "receipt",
+            "date",
+            "number",
+            "draft",
+            "copy",
+            "mailed"
+        ],
+        "synonym": [
+            "written_document",
+            "codification",
+            "verbal_description",
+            "office",
+            "computer_address",
+            "inside_information",
+            "position",
+            "shipping",
+            "receipt",
+            "day_of_the_month",
+            "figure",
+            "bill_of_exchange",
+            "copy",
+            "get_off"
+        ]
+    },
+    "tracking_share_transactions": {
+        "original": [
+            "detail",
+            "transaction",
+            "code",
+            "description",
+            "date",
+            "amount",
+            "share",
+            "sale"
+        ],
+        "synonym": [
+            "inside_information",
+            "dealing",
+            "codification",
+            "verbal_description",
+            "day_of_the_month",
+            "sum_of_money",
+            "portion",
+            "gross_revenue"
+        ]
+    },
+    "apartment_rentals": {
+        "original": [
+            "building",
+            "full",
+            "description",
+            "addres",
+            "manager",
+            "phone",
+            "code",
+            "number",
+            "bathroom",
+            "bedroom",
+            "facility",
+            "guest",
+            "gender",
+            "first",
+            "last",
+            "date",
+            "booking",
+            "statu"
+        ],
+        "synonym": [
+            "edifice",
+            "full-of-the-moon",
+            "verbal_description",
+            "computer_address",
+            "manager",
+            "phone",
+            "codification",
+            "figure",
+            "bath",
+            "sleeping_room",
+            "installation",
+            "invitee",
+            "grammatical_gender",
+            "number_one",
+            "finale",
+            "day_of_the_month",
+            "booking",
+            "position"
+        ]
+    },
+    "student_transcripts_tracking": {
+        "original": [
+            "addres",
+            "city",
+            "postcode",
+            "state",
+            "province",
+            "country",
+            "detail",
+            "course",
+            "description",
+            "department",
+            "degree",
+            "program",
+            "summary",
+            "section",
+            "student",
+            "current",
+            "permanent",
+            "first",
+            "middle",
+            "last",
+            "mobile",
+            "number",
+            "email",
+            "date",
+            "enrolment"
+        ],
+        "synonym": [
+            "computer_address",
+            "metropolis",
+            "zip",
+            "province",
+            "province",
+            "nation",
+            "inside_information",
+            "course_of_study",
+            "verbal_description",
+            "section",
+            "grade",
+            "program",
+            "sum-up",
+            "subdivision",
+            "pupil",
+            "electric_current",
+            "permanent",
+            "number_one",
+            "centre",
+            "finale",
+            "mobile_river",
+            "figure",
+            "e-mail",
+            "day_of_the_month",
+            "enrollment"
+        ]
+    },
+    "cre_Docs_and_Epenses": {
+        "original": [
+            "document",
+            "code",
+            "description",
+            "project",
+            "detail",
+            "date",
+            "account"
+        ],
+        "synonym": [
+            "written_document",
+            "codification",
+            "verbal_description",
+            "project",
+            "inside_information",
+            "day_of_the_month",
+            "account"
+        ]
+    },
+    "ship_mission": {
+        "original": [
+            "mission",
+            "code",
+            "launched",
+            "year",
+            "speed",
+            "fate",
+            "tonnage"
+        ],
+        "synonym": [
+            "missionary_post",
+            "codification",
+            "set_up",
+            "twelvemonth",
+            "velocity",
+            "fate",
+            "tunnage"
+        ]
+    },
+    "company_office": {
+        "original": [
+            "id",
+            "city",
+            "height",
+            "storie",
+            "statu",
+            "headquarter",
+            "sale",
+            "billion",
+            "profit",
+            "market",
+            "building",
+            "year"
+        ],
+        "synonym": [
+            "gem_state",
+            "metropolis",
+            "tallness",
+            "narration",
+            "position",
+            "central_office",
+            "gross_revenue",
+            "one_million_million",
+            "net",
+            "marketplace",
+            "edifice",
+            "twelvemonth"
+        ]
+    },
+    "tracking_software_problems": {
+        "original": [
+            "problem",
+            "category",
+            "code",
+            "description",
+            "assigned",
+            "statu",
+            "date",
+            "detail",
+            "product",
+            "first",
+            "last",
+            "closure",
+            "authorised",
+            "reported",
+            "closed"
+        ],
+        "synonym": [
+            "job",
+            "category",
+            "codification",
+            "verbal_description",
+            "designate",
+            "position",
+            "day_of_the_month",
+            "inside_information",
+            "ware",
+            "number_one",
+            "finale",
+            "closure",
+            "authorise",
+            "describe",
+            "shut"
+        ]
+    },
+    "products_gen_characteristics": {
+        "original": [
+            "characteristic",
+            "code",
+            "description",
+            "color",
+            "product",
+            "category",
+            "unit",
+            "measure",
+            "data",
+            "detail",
+            "buying",
+            "price",
+            "selling"
+        ],
+        "synonym": [
+            "characteristic",
+            "codification",
+            "verbal_description",
+            "colour",
+            "ware",
+            "category",
+            "unit",
+            "step",
+            "information",
+            "inside_information",
+            "purchasing",
+            "price",
+            "merchandising"
+        ]
+    },
+    "coffee_shop": {
+        "original": [
+            "shop",
+            "addres",
+            "score",
+            "open",
+            "year",
+            "member",
+            "membership",
+            "time",
+            "level",
+            "month",
+            "total",
+            "amount"
+        ],
+        "synonym": [
+            "store",
+            "computer_address",
+            "grade",
+            "clear",
+            "twelvemonth",
+            "fellow_member",
+            "rank",
+            "clip",
+            "grade",
+            "month",
+            "total",
+            "sum_of_money"
+        ]
+    },
+    "riding_club": {
+        "original": [
+            "player",
+            "sponsor",
+            "gender",
+            "residence",
+            "occupation",
+            "vote",
+            "club",
+            "region",
+            "year",
+            "coach",
+            "starting",
+            "silver"
+        ],
+        "synonym": [
+            "participant",
+            "sponsor",
+            "grammatical_gender",
+            "abode",
+            "business",
+            "ballot",
+            "ball_club",
+            "part",
+            "twelvemonth",
+            "manager",
+            "starting",
+            "ag"
+        ]
+    },
+    "customers_card_transactions": {
+        "original": [
+            "account",
+            "customer",
+            "detail",
+            "first",
+            "last",
+            "addres",
+            "phone",
+            "email",
+            "code",
+            "number",
+            "date",
+            "transaction",
+            "previou",
+            "amount",
+            "comment"
+        ],
+        "synonym": [
+            "account",
+            "client",
+            "inside_information",
+            "number_one",
+            "finale",
+            "computer_address",
+            "phone",
+            "e-mail",
+            "codification",
+            "figure",
+            "day_of_the_month",
+            "dealing",
+            "old",
+            "sum_of_money",
+            "comment"
+        ]
+    },
+    "county_public_safety": {
+        "original": [
+            "police",
+            "officer",
+            "resident",
+            "officer",
+            "case",
+            "burden",
+            "crime",
+            "city",
+            "white",
+            "black",
+            "amerindian",
+            "asian",
+            "hispanic"
+        ],
+        "synonym": [
+            "police_force",
+            "officer",
+            "occupant",
+            "officer",
+            "instance",
+            "load",
+            "offense",
+            "metropolis",
+            "white_person",
+            "blackness",
+            "native_american",
+            "asiatic",
+            "hispanic_american"
+        ]
+    },
+    "performance_attendance": {
+        "original": [
+            "member",
+            "role",
+            "performance",
+            "date",
+            "attendance"
+        ],
+        "synonym": [
+            "fellow_member",
+            "office",
+            "public_presentation",
+            "day_of_the_month",
+            "attending"
+        ]
+    },
+    "club_1": {
+        "original": [
+            "sex",
+            "advisor",
+            "city",
+            "code",
+            "position"
+        ],
+        "synonym": [
+            "sexual_practice",
+            "advisor",
+            "metropolis",
+            "codification",
+            "place"
+        ]
+    },
+    "singer": {
+        "original": [
+            "singer",
+            "year",
+            "million",
+            "song",
+            "title",
+            "sale",
+            "position"
+        ],
+        "synonym": [
+            "vocalist",
+            "twelvemonth",
+            "1000000",
+            "vocal",
+            "statute_title",
+            "gross_revenue",
+            "place"
+        ]
+    },
+    "culture_company": {
+        "original": [
+            "club",
+            "year",
+            "author",
+            "editor",
+            "title",
+            "publisher",
+            "category",
+            "result",
+            "movie",
+            "director",
+            "million",
+            "gros",
+            "worldwide",
+            "incorporated",
+            "group"
+        ],
+        "synonym": [
+            "ball_club",
+            "twelvemonth",
+            "author",
+            "editor_in_chief",
+            "statute_title",
+            "publishing_house",
+            "category",
+            "effect",
+            "film",
+            "manager",
+            "1000000",
+            "144",
+            "world-wide",
+            "incorporate",
+            "grouping"
+        ]
+    },
+    "cre_Doc_Template_Mgt": {
+        "original": [
+            "template",
+            "code",
+            "description",
+            "number",
+            "date",
+            "effective",
+            "detail",
+            "document",
+            "text"
+        ],
+        "synonym": [
+            "templet",
+            "codification",
+            "verbal_description",
+            "figure",
+            "day_of_the_month",
+            "effectual",
+            "inside_information",
+            "written_document",
+            "textual_matter"
+        ]
+    },
+    "musical": {
+        "original": [
+            "musical",
+            "year",
+            "award",
+            "category",
+            "nominee",
+            "result",
+            "actor",
+            "character",
+            "duration"
+        ],
+        "synonym": [
+            "musical_comedy",
+            "twelvemonth",
+            "awarding",
+            "category",
+            "candidate",
+            "effect",
+            "histrion",
+            "fictitious_character",
+            "continuance"
+        ]
+    },
+    "world_1": {
+        "original": [
+            "id",
+            "district",
+            "code",
+            "region",
+            "gnp",
+            "capital",
+            "language",
+            "percentage"
+        ],
+        "synonym": [
+            "gem_state",
+            "territory",
+            "codification",
+            "part",
+            "gnp",
+            "working_capital",
+            "linguistic_communication",
+            "percent"
+        ]
+    },
+    "device": {
+        "original": [
+            "carrier",
+            "package",
+            "application",
+            "software",
+            "shop",
+            "open",
+            "date",
+            "year",
+            "quantity"
+        ],
+        "synonym": [
+            "bearer",
+            "bundle",
+            "practical_application",
+            "software_program",
+            "store",
+            "clear",
+            "day_of_the_month",
+            "twelvemonth",
+            "quantity"
+        ]
+    },
+    "tracking_grants_for_research": {
+        "original": [
+            "document",
+            "code",
+            "description",
+            "date",
+            "received",
+            "detail",
+            "organisation",
+            "amount",
+            "project",
+            "outcome",
+            "role",
+            "task"
+        ],
+        "synonym": [
+            "written_document",
+            "codification",
+            "verbal_description",
+            "day_of_the_month",
+            "have",
+            "inside_information",
+            "governance",
+            "sum_of_money",
+            "project",
+            "resultant",
+            "office",
+            "project"
+        ]
+    },
+    "employee_hire_evaluation": {
+        "original": [
+            "city",
+            "shop",
+            "district",
+            "number",
+            "product",
+            "manager",
+            "full",
+            "time",
+            "year",
+            "awarded",
+            "bonu"
+        ],
+        "synonym": [
+            "metropolis",
+            "store",
+            "territory",
+            "figure",
+            "ware",
+            "manager",
+            "full-of-the-moon",
+            "clip",
+            "twelvemonth",
+            "present",
+            "fillip"
+        ]
+    },
+    "movie_1": {
+        "original": [
+            "title",
+            "year",
+            "director",
+            "rid"
+        ],
+        "synonym": [
+            "statute_title",
+            "twelvemonth",
+            "manager",
+            "free"
+        ]
+    },
+    "network_1": {
+        "original": [
+            "id",
+            "grade",
+            "student",
+            "liked"
+        ],
+        "synonym": [
+            "gem_state",
+            "form",
+            "pupil",
+            "care"
+        ]
+    },
+    "poker_player": {
+        "original": [
+            "poker",
+            "player",
+            "table",
+            "made",
+            "finish",
+            "earning",
+            "date",
+            "height"
+        ],
+        "synonym": [
+            "stove_poker",
+            "participant",
+            "tabular_array",
+            "do",
+            "finish",
+            "net",
+            "day_of_the_month",
+            "tallness"
+        ]
+    },
+    "program_share": {
+        "original": [
+            "program",
+            "origin",
+            "owner",
+            "channel",
+            "share",
+            "percent",
+            "rating",
+            "time",
+            "date"
+        ],
+        "synonym": [
+            "program",
+            "origin",
+            "proprietor",
+            "transmission_channel",
+            "portion",
+            "percent",
+            "valuation",
+            "clip",
+            "day_of_the_month"
+        ]
+    },
+    "aircraft": {
+        "original": [
+            "pilot",
+            "description",
+            "gros",
+            "total",
+            "disk",
+            "area",
+            "loading",
+            "round",
+            "country",
+            "date",
+            "qualifying",
+            "airport",
+            "passenger",
+            "change",
+            "domestic",
+            "transit",
+            "movement",
+            "freight",
+            "metric",
+            "tonne",
+            "id"
+        ],
+        "synonym": [
+            "airplane_pilot",
+            "verbal_description",
+            "144",
+            "total",
+            "disc",
+            "country",
+            "loading",
+            "unit_of_ammunition",
+            "nation",
+            "day_of_the_month",
+            "qualifying",
+            "airdrome",
+            "rider",
+            "alteration",
+            "domestic_help",
+            "transit",
+            "movement",
+            "lading",
+            "metric",
+            "mt",
+            "gem_state"
+        ]
+    },
+    "restaurant_1": {
+        "original": [
+            "sex",
+            "advisor",
+            "city",
+            "code",
+            "resid",
+            "addres",
+            "rating",
+            "time",
+            "spent"
+        ],
+        "synonym": [
+            "sexual_practice",
+            "advisor",
+            "metropolis",
+            "codification",
+            "resid",
+            "computer_address",
+            "valuation",
+            "clip",
+            "pass"
+        ]
+    },
+    "customers_and_invoices": {
+        "original": [
+            "customer",
+            "first",
+            "middle",
+            "last",
+            "gender",
+            "email",
+            "addres",
+            "password",
+            "phone",
+            "number",
+            "city",
+            "state",
+            "province",
+            "country",
+            "date",
+            "placed",
+            "detail",
+            "invoice",
+            "account",
+            "opened",
+            "code",
+            "product",
+            "description",
+            "rating",
+            "unit",
+            "price",
+            "color",
+            "transaction",
+            "amount",
+            "comment",
+            "item",
+            "quantity",
+            "title",
+            "derived",
+            "payable",
+            "total"
+        ],
+        "synonym": [
+            "client",
+            "number_one",
+            "centre",
+            "finale",
+            "grammatical_gender",
+            "e-mail",
+            "computer_address",
+            "watchword",
+            "phone",
+            "figure",
+            "metropolis",
+            "province",
+            "province",
+            "nation",
+            "day_of_the_month",
+            "set",
+            "inside_information",
+            "account",
+            "account",
+            "open_up",
+            "codification",
+            "ware",
+            "verbal_description",
+            "valuation",
+            "unit",
+            "price",
+            "colour",
+            "dealing",
+            "sum_of_money",
+            "comment",
+            "point",
+            "quantity",
+            "statute_title",
+            "infer",
+            "payable",
+            "total"
+        ]
+    },
+    "insurance_and_eClaims": {
+        "original": [
+            "customer",
+            "detail",
+            "code",
+            "date",
+            "header",
+            "statu",
+            "settlement",
+            "amount",
+            "document",
+            "created",
+            "stage",
+            "next",
+            "description",
+            "outcome"
+        ],
+        "synonym": [
+            "client",
+            "inside_information",
+            "codification",
+            "day_of_the_month",
+            "header",
+            "position",
+            "settlement",
+            "sum_of_money",
+            "written_document",
+            "create",
+            "stage",
+            "next",
+            "verbal_description",
+            "resultant"
+        ]
+    },
+    "college_1": {
+        "original": [
+            "clas",
+            "code",
+            "section",
+            "time",
+            "prof",
+            "description",
+            "credit",
+            "addres",
+            "enroll",
+            "grade",
+            "office",
+            "degree",
+            "transfer",
+            "phone"
+        ],
+        "synonym": [
+            "category",
+            "codification",
+            "subdivision",
+            "clip",
+            "prof",
+            "verbal_description",
+            "credit",
+            "computer_address",
+            "inscribe",
+            "form",
+            "business_office",
+            "grade",
+            "transport",
+            "phone"
+        ]
+    },
+    "local_govt_mdm": {
+        "original": [
+            "master",
+            "customer",
+            "detail",
+            "source",
+            "code",
+            "busines",
+            "register"
+        ],
+        "synonym": [
+            "master",
+            "client",
+            "inside_information",
+            "origin",
+            "codification",
+            "concern",
+            "registry"
+        ]
+    },
+    "book_2": {
+        "original": [
+            "publisher",
+            "date",
+            "price",
+            "title",
+            "writer"
+        ],
+        "synonym": [
+            "publishing_house",
+            "day_of_the_month",
+            "price",
+            "statute_title",
+            "author"
+        ]
+    },
+    "hr_1": {
+        "original": [
+            "region",
+            "country",
+            "department",
+            "manager",
+            "title",
+            "salary",
+            "first",
+            "last",
+            "email",
+            "phone",
+            "number",
+            "date",
+            "commission",
+            "addres",
+            "code",
+            "city",
+            "state",
+            "province"
+        ],
+        "synonym": [
+            "part",
+            "nation",
+            "section",
+            "manager",
+            "statute_title",
+            "pay",
+            "number_one",
+            "finale",
+            "e-mail",
+            "phone",
+            "figure",
+            "day_of_the_month",
+            "commission",
+            "computer_address",
+            "codification",
+            "metropolis",
+            "province",
+            "province"
+        ]
+    },
+    "soccer_1": {
+        "original": [
+            "id",
+            "player",
+            "date",
+            "rating",
+            "potential",
+            "foot",
+            "attacking",
+            "defensive",
+            "finishing",
+            "heading",
+            "accuracy",
+            "passing",
+            "volley",
+            "dribbling",
+            "curve",
+            "free",
+            "kick",
+            "long",
+            "sprint",
+            "speed",
+            "agility",
+            "reaction",
+            "shot",
+            "power",
+            "stamina",
+            "shot",
+            "positioning",
+            "penaltie",
+            "marking",
+            "sliding",
+            "diving",
+            "kicking",
+            "reflexe",
+            "height",
+            "country",
+            "team"
+        ],
+        "synonym": [
+            "gem_state",
+            "participant",
+            "day_of_the_month",
+            "valuation",
+            "potentiality",
+            "human_foot",
+            "assail",
+            "defensive_attitude",
+            "finish",
+            "header",
+            "truth",
+            "passing_play",
+            "salvo",
+            "dribbling",
+            "curved_shape",
+            "free_people",
+            "boot",
+            "long",
+            "sprint",
+            "velocity",
+            "legerity",
+            "reaction",
+            "shot",
+            "powerfulness",
+            "staying_power",
+            "shot",
+            "location",
+            "penalty",
+            "marking",
+            "slip",
+            "diving_event",
+            "kicking",
+            "reflex_response",
+            "tallness",
+            "nation",
+            "squad"
+        ]
+    },
+    "sakila_1": {
+        "original": [
+            "actor",
+            "first",
+            "last",
+            "addres",
+            "district",
+            "city",
+            "code",
+            "phone",
+            "category",
+            "country",
+            "customer",
+            "store",
+            "email",
+            "active",
+            "create",
+            "date",
+            "film",
+            "title",
+            "description",
+            "year",
+            "language",
+            "original",
+            "rental",
+            "duration",
+            "replacement",
+            "rating",
+            "feature",
+            "inventory",
+            "amount",
+            "return",
+            "picture",
+            "password",
+            "manager"
+        ],
+        "synonym": [
+            "histrion",
+            "number_one",
+            "finale",
+            "computer_address",
+            "territory",
+            "metropolis",
+            "codification",
+            "phone",
+            "category",
+            "nation",
+            "client",
+            "store",
+            "e-mail",
+            "active",
+            "create",
+            "day_of_the_month",
+            "film",
+            "statute_title",
+            "verbal_description",
+            "twelvemonth",
+            "linguistic_communication",
+            "master_copy",
+            "rental",
+            "continuance",
+            "replacing",
+            "valuation",
+            "characteristic",
+            "stock_list",
+            "sum_of_money",
+            "income_tax_return",
+            "image",
+            "watchword",
+            "manager"
+        ]
+    },
+    "real_estate_properties": {
+        "original": [
+            "feature",
+            "code",
+            "property",
+            "description",
+            "date",
+            "market",
+            "addres",
+            "vendor",
+            "requested",
+            "price",
+            "buyer",
+            "agreed",
+            "selling",
+            "detail"
+        ],
+        "synonym": [
+            "characteristic",
+            "codification",
+            "belongings",
+            "verbal_description",
+            "day_of_the_month",
+            "marketplace",
+            "computer_address",
+            "marketer",
+            "bespeak",
+            "price",
+            "purchaser",
+            "hold",
+            "merchandising",
+            "inside_information"
+        ]
+    },
+    "college_3": {
+        "original": [
+            "sex",
+            "advisor",
+            "city",
+            "code",
+            "phone",
+            "building",
+            "cid",
+            "instructor",
+            "day",
+            "grade"
+        ],
+        "synonym": [
+            "sexual_practice",
+            "advisor",
+            "metropolis",
+            "codification",
+            "phone",
+            "edifice",
+            "cid",
+            "instructor",
+            "years",
+            "form"
+        ]
+    },
+    "course_teach": {
+        "original": [
+            "course",
+            "staring",
+            "date",
+            "teacher",
+            "grade"
+        ],
+        "synonym": [
+            "course_of_study",
+            "stare",
+            "day_of_the_month",
+            "instructor",
+            "form"
+        ]
+    },
+    "roller_coaster": {
+        "original": [
+            "park",
+            "country",
+            "height",
+            "speed",
+            "opened",
+            "statu",
+            "area",
+            "language"
+        ],
+        "synonym": [
+            "parkland",
+            "nation",
+            "tallness",
+            "velocity",
+            "open_up",
+            "position",
+            "country",
+            "linguistic_communication"
+        ]
+    },
+    "customer_deliveries": {
+        "original": [
+            "product",
+            "price",
+            "description",
+            "addres",
+            "detail",
+            "city",
+            "postcode",
+            "state",
+            "province",
+            "country",
+            "customer",
+            "phone",
+            "email",
+            "date",
+            "became",
+            "regular",
+            "distributer",
+            "actual",
+            "statu",
+            "code",
+            "route",
+            "truck",
+            "licence",
+            "number",
+            "delivery"
+        ],
+        "synonym": [
+            "ware",
+            "price",
+            "verbal_description",
+            "computer_address",
+            "inside_information",
+            "metropolis",
+            "zip",
+            "province",
+            "province",
+            "nation",
+            "client",
+            "phone",
+            "e-mail",
+            "day_of_the_month",
+            "go",
+            "habitue",
+            "distributer",
+            "existent",
+            "position",
+            "codification",
+            "route",
+            "motortruck",
+            "licence",
+            "figure",
+            "bringing"
+        ]
+    },
+    "game_injury": {
+        "original": [
+            "id",
+            "home",
+            "average",
+            "attendance",
+            "total",
+            "percentage",
+            "stadium",
+            "date",
+            "team",
+            "score",
+            "player",
+            "injury",
+            "number",
+            "matche",
+            "source"
+        ],
+        "synonym": [
+            "gem_state",
+            "place",
+            "norm",
+            "attending",
+            "total",
+            "percent",
+            "bowl",
+            "day_of_the_month",
+            "squad",
+            "grade",
+            "participant",
+            "hurt",
+            "figure",
+            "lucifer",
+            "origin"
+        ]
+    },
+    "school_finance": {
+        "original": [
+            "enrollment",
+            "clas",
+            "football",
+            "year",
+            "total",
+            "percent",
+            "invested",
+            "endowment",
+            "amount"
+        ],
+        "synonym": [
+            "enrollment",
+            "category",
+            "football_game",
+            "twelvemonth",
+            "total",
+            "percent",
+            "put",
+            "gift",
+            "sum_of_money"
+        ]
+    },
+    "scholar": {
+        "original": [
+            "title",
+            "year"
+        ],
+        "synonym": [
+            "statute_title",
+            "twelvemonth"
+        ]
+    },
+    "voter_1": {
+        "original": [
+            "area",
+            "code",
+            "state",
+            "number",
+            "vote",
+            "phone",
+            "created"
+        ],
+        "synonym": [
+            "country",
+            "codification",
+            "province",
+            "figure",
+            "ballot",
+            "phone",
+            "create"
+        ]
+    },
+    "match_season": {
+        "original": [
+            "country",
+            "capital",
+            "official",
+            "native",
+            "language",
+            "team",
+            "player",
+            "position",
+            "draft",
+            "pick",
+            "number",
+            "clas",
+            "year",
+            "total"
+        ],
+        "synonym": [
+            "nation",
+            "working_capital",
+            "functionary",
+            "indigen",
+            "linguistic_communication",
+            "squad",
+            "participant",
+            "place",
+            "bill_of_exchange",
+            "pick",
+            "figure",
+            "category",
+            "years",
+            "total"
+        ]
+    },
+    "small_bank_1": {
+        "original": [],
+        "synonym": []
+    },
+    "wta_1": {
+        "original": [
+            "player",
+            "first",
+            "last",
+            "hand",
+            "date",
+            "country",
+            "code",
+            "loser",
+            "match",
+            "minute",
+            "round",
+            "score",
+            "tourney",
+            "level",
+            "winner",
+            "year"
+        ],
+        "synonym": [
+            "participant",
+            "number_one",
+            "finale",
+            "manus",
+            "day_of_the_month",
+            "nation",
+            "codification",
+            "also-ran",
+            "lucifer",
+            "proceedings",
+            "unit_of_ammunition",
+            "grade",
+            "tourney",
+            "grade",
+            "victor",
+            "twelvemonth"
+        ]
+    },
+    "yelp": {
+        "original": [
+            "bid",
+            "busines",
+            "full",
+            "addres",
+            "city",
+            "review",
+            "open",
+            "rating",
+            "state",
+            "id",
+            "category",
+            "cid",
+            "day",
+            "neighbourhood",
+            "rid",
+            "text",
+            "year",
+            "month",
+            "like"
+        ],
+        "synonym": [
+            "bid",
+            "concern",
+            "full-of-the-moon",
+            "computer_address",
+            "metropolis",
+            "revaluation",
+            "clear",
+            "valuation",
+            "province",
+            "gem_state",
+            "category",
+            "cid",
+            "twenty-four_hours",
+            "locality",
+            "free",
+            "textual_matter",
+            "twelvemonth",
+            "month",
+            "the_like"
+        ]
+    },
+    "student_1": {
+        "original": [
+            "grade",
+            "classroom"
+        ],
+        "synonym": [
+            "form",
+            "schoolroom"
+        ]
+    },
+    "manufacturer": {
+        "original": [
+            "manufacturer",
+            "open",
+            "year",
+            "factorie",
+            "shop",
+            "furniture",
+            "component",
+            "market",
+            "price"
+        ],
+        "synonym": [
+            "maker",
+            "clear",
+            "twelvemonth",
+            "mill",
+            "store",
+            "piece_of_furniture",
+            "constituent",
+            "marketplace",
+            "price"
+        ]
+    },
+    "store_1": {
+        "original": [
+            "id",
+            "title",
+            "artist",
+            "last",
+            "first",
+            "report",
+            "date",
+            "addres",
+            "city",
+            "state",
+            "country",
+            "code",
+            "phone",
+            "fax",
+            "email",
+            "customer",
+            "invoice",
+            "billing",
+            "total",
+            "album",
+            "millisecond",
+            "unit",
+            "price",
+            "track",
+            "quantity",
+            "playlist"
+        ],
+        "synonym": [
+            "gem_state",
+            "statute_title",
+            "creative_person",
+            "finale",
+            "number_one",
+            "study",
+            "day_of_the_month",
+            "computer_address",
+            "metropolis",
+            "province",
+            "nation",
+            "codification",
+            "phone",
+            "facsimile_machine",
+            "e-mail",
+            "client",
+            "account",
+            "billing",
+            "total",
+            "record_album",
+            "msec",
+            "unit",
+            "price",
+            "track",
+            "quantity",
+            "play_list"
+        ]
+    },
+    "train_station": {
+        "original": [
+            "exit",
+            "total",
+            "passenger",
+            "main",
+            "number",
+            "train",
+            "time"
+        ],
+        "synonym": [
+            "issue",
+            "total",
+            "rider",
+            "briny",
+            "figure",
+            "railroad_train",
+            "clip"
+        ]
+    },
+    "document_management": {
+        "original": [
+            "role",
+            "code",
+            "description",
+            "password",
+            "document",
+            "structure",
+            "area",
+            "image",
+            "text",
+            "acces",
+            "section",
+            "title"
+        ],
+        "synonym": [
+            "office",
+            "codification",
+            "verbal_description",
+            "watchword",
+            "written_document",
+            "construction",
+            "country",
+            "mental_image",
+            "textual_matter",
+            "access",
+            "subdivision",
+            "statute_title"
+        ]
+    },
+    "formula_1": {
+        "original": [
+            "country",
+            "lat",
+            "alt",
+            "url",
+            "year",
+            "round",
+            "date",
+            "time",
+            "number",
+            "code",
+            "forename",
+            "surname",
+            "statu",
+            "position",
+            "millisecond",
+            "stop",
+            "duration"
+        ],
+        "synonym": [
+            "nation",
+            "lat",
+            "el",
+            "uniform_resource_locator",
+            "twelvemonth",
+            "unit_of_ammunition",
+            "day_of_the_month",
+            "clip",
+            "figure",
+            "codification",
+            "given_name",
+            "family_name",
+            "position",
+            "place",
+            "msec",
+            "halt",
+            "continuance"
+        ]
+    },
+    "game_1": {
+        "original": [
+            "sex",
+            "advisor",
+            "city",
+            "code"
+        ],
+        "synonym": [
+            "sexual_practice",
+            "advisor",
+            "metropolis",
+            "codification"
+        ]
+    },
+    "loan_1": {
+        "original": [
+            "branch",
+            "customer",
+            "city",
+            "state",
+            "credit",
+            "score",
+            "amount"
+        ],
+        "synonym": [
+            "subdivision",
+            "client",
+            "metropolis",
+            "province",
+            "credit",
+            "grade",
+            "sum_of_money"
+        ]
+    },
+    "bike_1": {
+        "original": [
+            "id",
+            "lat",
+            "long",
+            "city",
+            "installation",
+            "date",
+            "bike",
+            "time",
+            "duration",
+            "bike",
+            "code",
+            "mean",
+            "humidity",
+            "level",
+            "pressure",
+            "inche",
+            "visibility",
+            "mile",
+            "wind",
+            "speed",
+            "gust",
+            "cover",
+            "degree"
+        ],
+        "synonym": [
+            "gem_state",
+            "lat",
+            "long",
+            "metropolis",
+            "installing",
+            "day_of_the_month",
+            "bike",
+            "clip",
+            "continuance",
+            "bike",
+            "codification",
+            "mean_value",
+            "humidness",
+            "grade",
+            "pressure_level",
+            "in",
+            "visibleness",
+            "statute_mile",
+            "air_current",
+            "velocity",
+            "blast",
+            "cover",
+            "grade"
+        ]
+    },
+    "entrepreneur": {
+        "original": [
+            "entrepreneur",
+            "requested",
+            "height",
+            "date"
+        ],
+        "synonym": [
+            "enterpriser",
+            "bespeak",
+            "tallness",
+            "day_of_the_month"
+        ]
+    },
+    "orchestra": {
+        "original": [
+            "conductor",
+            "year",
+            "founded",
+            "format",
+            "performance",
+            "date",
+            "official",
+            "rating",
+            "share",
+            "first",
+            "result",
+            "attendance"
+        ],
+        "synonym": [
+            "music_director",
+            "twelvemonth",
+            "set_up",
+            "formatting",
+            "public_presentation",
+            "day_of_the_month",
+            "functionary",
+            "valuation",
+            "portion",
+            "number_one",
+            "effect",
+            "attending"
+        ]
+    },
+    "cre_Drama_Workshop_Groups": {
+        "original": [
+            "code",
+            "description",
+            "addres",
+            "city",
+            "state",
+            "detail",
+            "product",
+            "price",
+            "marketing",
+            "region",
+            "customer",
+            "email",
+            "phone",
+            "workshop",
+            "group",
+            "store",
+            "performer",
+            "booking",
+            "statu",
+            "date",
+            "planned",
+            "delivery",
+            "actual",
+            "item",
+            "quantity",
+            "invoice"
+        ],
+        "synonym": [
+            "codification",
+            "verbal_description",
+            "computer_address",
+            "metropolis",
+            "province",
+            "inside_information",
+            "ware",
+            "price",
+            "merchandising",
+            "part",
+            "client",
+            "e-mail",
+            "phone",
+            "shop",
+            "grouping",
+            "store",
+            "performing_artist",
+            "booking",
+            "position",
+            "day_of_the_month",
+            "be_after",
+            "bringing",
+            "existent",
+            "point",
+            "quantity",
+            "account"
+        ]
+    },
+    "car_1": {
+        "original": [
+            "id",
+            "maker",
+            "country",
+            "model",
+            "make",
+            "horsepower",
+            "accelerate",
+            "year"
+        ],
+        "synonym": [
+            "gem_state",
+            "shaper",
+            "nation",
+            "theoretical_account",
+            "make",
+            "hp",
+            "speed_up",
+            "twelvemonth"
+        ]
+    },
+    "geo": {
+        "original": [
+            "state",
+            "area",
+            "country",
+            "capital",
+            "density",
+            "city",
+            "border",
+            "elevation",
+            "lowest",
+            "mountain",
+            "altitude",
+            "traverse"
+        ],
+        "synonym": [
+            "province",
+            "country",
+            "nation",
+            "working_capital",
+            "denseness",
+            "metropolis",
+            "border",
+            "lift",
+            "last-place",
+            "mount",
+            "height",
+            "traverse"
+        ]
+    },
+    "behavior_monitoring": {
+        "original": [
+            "addres",
+            "code",
+            "description",
+            "detention",
+            "city",
+            "postcode",
+            "state",
+            "province",
+            "country",
+            "detail",
+            "student",
+            "first",
+            "middle",
+            "last",
+            "mobile",
+            "number",
+            "email",
+            "date",
+            "rental",
+            "teacher",
+            "gender",
+            "text",
+            "summary"
+        ],
+        "synonym": [
+            "computer_address",
+            "codification",
+            "verbal_description",
+            "detainment",
+            "metropolis",
+            "zip",
+            "province",
+            "province",
+            "nation",
+            "inside_information",
+            "pupil",
+            "number_one",
+            "centre",
+            "finale",
+            "mobile_river",
+            "figure",
+            "e-mail",
+            "day_of_the_month",
+            "rental",
+            "instructor",
+            "grammatical_gender",
+            "textual_matter",
+            "sum-up"
+        ]
+    },
+    "cre_Doc_Tracking_DB": {
+        "original": [
+            "document",
+            "code",
+            "description",
+            "date",
+            "number",
+            "role",
+            "stored",
+            "detail",
+            "gender",
+            "destruction",
+            "authorised",
+            "destroyed",
+            "planned",
+            "actual"
+        ],
+        "synonym": [
+            "written_document",
+            "codification",
+            "verbal_description",
+            "day_of_the_month",
+            "figure",
+            "office",
+            "hive_away",
+            "inside_information",
+            "grammatical_gender",
+            "devastation",
+            "authorise",
+            "destruct",
+            "be_after",
+            "existent"
+        ]
+    },
+    "university_basketball": {
+        "original": [
+            "team",
+            "regular",
+            "percent",
+            "home",
+            "road",
+            "founded",
+            "affiliation",
+            "enrollment",
+            "nickname",
+            "primary"
+        ],
+        "synonym": [
+            "squad",
+            "habitue",
+            "percent",
+            "place",
+            "route",
+            "set_up",
+            "association",
+            "enrollment",
+            "moniker",
+            "primary_election"
+        ]
+    },
+    "soccer_2": {
+        "original": [
+            "state",
+            "pid",
+            "h",
+            "decision"
+        ],
+        "synonym": [
+            "province",
+            "pid",
+            "hs",
+            "determination"
+        ]
+    },
+    "activity_1": {
+        "original": [
+            "sex",
+            "advisor",
+            "city",
+            "code",
+            "phone",
+            "building"
+        ],
+        "synonym": [
+            "sexual_practice",
+            "advisor",
+            "metropolis",
+            "codification",
+            "phone",
+            "edifice"
+        ]
+    },
+    "cre_Theme_park": {
+        "original": [
+            "rating",
+            "code",
+            "description",
+            "addres",
+            "detail",
+            "attraction",
+            "tourist",
+            "feature",
+            "allowed",
+            "price",
+            "range",
+            "opening",
+            "market",
+            "shop",
+            "family",
+            "theme",
+            "park",
+            "date",
+            "photo",
+            "filename"
+        ],
+        "synonym": [
+            "valuation",
+            "codification",
+            "verbal_description",
+            "computer_address",
+            "inside_information",
+            "attractive_force",
+            "tourer",
+            "characteristic",
+            "allow",
+            "price",
+            "range",
+            "gap",
+            "marketplace",
+            "store",
+            "household",
+            "topic",
+            "parkland",
+            "day_of_the_month",
+            "photo",
+            "file_name"
+        ]
+    },
+    "twitter_1": {
+        "original": [
+            "id",
+            "text",
+            "email",
+            "follower"
+        ],
+        "synonym": [
+            "gem_state",
+            "textual_matter",
+            "e-mail",
+            "followers"
+        ]
+    },
+    "election_representative": {
+        "original": [
+            "date",
+            "vote",
+            "vote",
+            "percent",
+            "seat",
+            "place",
+            "state",
+            "party",
+            "lifespan"
+        ],
+        "synonym": [
+            "day_of_the_month",
+            "ballot",
+            "ballot",
+            "percent",
+            "seats",
+            "place",
+            "province",
+            "political_party",
+            "lifetime"
+        ]
+    },
+    "voter_2": {
+        "original": [
+            "sex",
+            "advisor",
+            "city",
+            "code",
+            "registration",
+            "date",
+            "cycle",
+            "vote",
+            "vice",
+            "treasurer",
+            "clas"
+        ],
+        "synonym": [
+            "sexual_practice",
+            "advisor",
+            "metropolis",
+            "codification",
+            "enrollment",
+            "day_of_the_month",
+            "rhythm",
+            "ballot",
+            "vice",
+            "financial_officer",
+            "category"
+        ]
+    },
+    "wedding": {
+        "original": [
+            "country",
+            "church",
+            "organized",
+            "open",
+            "date",
+            "continuation",
+            "year"
+        ],
+        "synonym": [
+            "nation",
+            "christian_church",
+            "organize",
+            "clear",
+            "day_of_the_month",
+            "continuation",
+            "twelvemonth"
+        ]
+    },
+    "news_report": {
+        "original": [
+            "date",
+            "venue",
+            "attendance",
+            "year",
+            "working"
+        ],
+        "synonym": [
+            "day_of_the_month",
+            "locale",
+            "attending",
+            "years",
+            "workings"
+        ]
+    },
+    "wine_1": {
+        "original": [
+            "id",
+            "color",
+            "state",
+            "area",
+            "winery",
+            "year",
+            "price",
+            "score",
+            "case"
+        ],
+        "synonym": [
+            "gem_state",
+            "colour",
+            "province",
+            "country",
+            "wine_maker",
+            "twelvemonth",
+            "price",
+            "grade",
+            "instance"
+        ]
+    },
+    "customers_and_addresses": {
+        "original": [
+            "addres",
+            "city",
+            "postcode",
+            "state",
+            "province",
+            "country",
+            "detail",
+            "product",
+            "customer",
+            "date",
+            "became",
+            "channel",
+            "code",
+            "active",
+            "number",
+            "statu",
+            "quantity"
+        ],
+        "synonym": [
+            "computer_address",
+            "metropolis",
+            "zip",
+            "province",
+            "province",
+            "nation",
+            "inside_information",
+            "ware",
+            "client",
+            "day_of_the_month",
+            "go",
+            "transmission_channel",
+            "codification",
+            "active",
+            "figure",
+            "position",
+            "quantity"
+        ]
+    },
+    "protein_institute": {
+        "original": [
+            "building",
+            "addres",
+            "year",
+            "height",
+            "feet",
+            "floor",
+            "institution",
+            "founded",
+            "enrollment",
+            "team",
+            "primary",
+            "common",
+            "divergence",
+            "human",
+            "lineage",
+            "number",
+            "identity"
+        ],
+        "synonym": [
+            "edifice",
+            "computer_address",
+            "years",
+            "tallness",
+            "human_foot",
+            "flooring",
+            "establishment",
+            "set_up",
+            "enrollment",
+            "squad",
+            "primary_election",
+            "commons",
+            "divergency",
+            "man",
+            "line",
+            "figure",
+            "personal_identity"
+        ]
+    },
+    "school_player": {
+        "original": [
+            "enrollment",
+            "founded",
+            "boy",
+            "girl",
+            "boarding",
+            "year",
+            "entered",
+            "color",
+            "nickname",
+            "league",
+            "clas",
+            "player",
+            "team",
+            "position"
+        ],
+        "synonym": [
+            "enrollment",
+            "set_up",
+            "boy",
+            "miss",
+            "embarkation",
+            "twelvemonth",
+            "come_in",
+            "colours",
+            "moniker",
+            "conference",
+            "category",
+            "participant",
+            "squad",
+            "place"
+        ]
+    },
+    "phone_1": {
+        "original": [
+            "model",
+            "year",
+            "wifi",
+            "graphic",
+            "mode",
+            "pixel",
+            "colour",
+            "used",
+            "level",
+            "date",
+            "chip",
+            "screen"
+        ],
+        "synonym": [
+            "theoretical_account",
+            "twelvemonth",
+            "wlan",
+            "art",
+            "mode",
+            "pel",
+            "colours",
+            "utilize",
+            "grade",
+            "day_of_the_month",
+            "chip",
+            "silver_screen"
+        ]
+    },
+    "tvshow": {
+        "original": [
+            "id",
+            "country",
+            "language",
+            "pixel",
+            "aspect",
+            "view",
+            "package",
+            "date",
+            "rating",
+            "share",
+            "viewer",
+            "channel",
+            "title",
+            "written",
+            "original",
+            "code"
+        ],
+        "synonym": [
+            "gem_state",
+            "nation",
+            "linguistic_communication",
+            "pel",
+            "facet",
+            "view",
+            "bundle",
+            "day_of_the_month",
+            "valuation",
+            "portion",
+            "tv_audience",
+            "transmission_channel",
+            "statute_title",
+            "compose",
+            "master_copy",
+            "codification"
+        ]
+    },
+    "wrestler": {
+        "original": [
+            "wrestler",
+            "day",
+            "held",
+            "elimination",
+            "team",
+            "eliminated",
+            "time"
+        ],
+        "synonym": [
+            "grappler",
+            "years",
+            "maintain",
+            "riddance",
+            "squad",
+            "eliminate",
+            "clip"
+        ]
+    },
+    "customer_complaints": {
+        "original": [
+            "gender",
+            "first",
+            "last",
+            "email",
+            "addres",
+            "phone",
+            "number",
+            "customer",
+            "code",
+            "city",
+            "state",
+            "product",
+            "category",
+            "date",
+            "discontinued",
+            "description",
+            "price",
+            "complaint",
+            "outcome",
+            "statu",
+            "closed"
+        ],
+        "synonym": [
+            "grammatical_gender",
+            "number_one",
+            "finale",
+            "e-mail",
+            "computer_address",
+            "phone",
+            "figure",
+            "client",
+            "codification",
+            "metropolis",
+            "province",
+            "ware",
+            "category",
+            "day_of_the_month",
+            "stop",
+            "verbal_description",
+            "price",
+            "complaint",
+            "resultant",
+            "position",
+            "shut"
+        ]
+    },
+    "department_management": {
+        "original": [
+            "department",
+            "creation",
+            "billion",
+            "head",
+            "born",
+            "state",
+            "temporary",
+            "acting"
+        ],
+        "synonym": [
+            "section",
+            "creative_activity",
+            "one_million_million",
+            "caput",
+            "max_born",
+            "province",
+            "temporary",
+            "playing"
+        ]
+    },
+    "customers_and_products_contacts": {
+        "original": [
+            "addres",
+            "number",
+            "building",
+            "city",
+            "postcode",
+            "state",
+            "province",
+            "country",
+            "product",
+            "code",
+            "price",
+            "customer",
+            "phone",
+            "email",
+            "gender",
+            "first",
+            "last",
+            "date",
+            "statu",
+            "item",
+            "quantity"
+        ],
+        "synonym": [
+            "computer_address",
+            "figure",
+            "edifice",
+            "metropolis",
+            "zip",
+            "province",
+            "province",
+            "nation",
+            "ware",
+            "codification",
+            "price",
+            "client",
+            "phone",
+            "e-mail",
+            "grammatical_gender",
+            "number_one",
+            "finale",
+            "day_of_the_month",
+            "position",
+            "point",
+            "quantity"
+        ]
+    },
+    "company_1": {
+        "original": [
+            "addres",
+            "sex",
+            "salary",
+            "super",
+            "date",
+            "dependent",
+            "relationship"
+        ],
+        "synonym": [
+            "computer_address",
+            "sexual_practice",
+            "pay",
+            "super",
+            "day_of_the_month",
+            "dependent",
+            "human_relationship"
+        ]
+    },
+    "workshop_paper": {
+        "original": [
+            "workshop",
+            "date",
+            "venue",
+            "submission",
+            "score",
+            "author",
+            "result"
+        ],
+        "synonym": [
+            "shop",
+            "day_of_the_month",
+            "locale",
+            "entry",
+            "dozens",
+            "author",
+            "effect"
+        ]
+    },
+    "epinions_1": {
+        "original": [
+            "title",
+            "rating",
+            "source",
+            "target"
+        ],
+        "synonym": [
+            "statute_title",
+            "valuation",
+            "origin",
+            "mark"
+        ]
+    },
+    "party_host": {
+        "original": [
+            "party",
+            "theme",
+            "first",
+            "year",
+            "last",
+            "number",
+            "main"
+        ],
+        "synonym": [
+            "political_party",
+            "topic",
+            "number_one",
+            "twelvemonth",
+            "finale",
+            "figure",
+            "briny"
+        ]
+    },
+    "product_catalog": {
+        "original": [
+            "attribute",
+            "data",
+            "catalog",
+            "publisher",
+            "date",
+            "revision",
+            "level",
+            "number",
+            "previou",
+            "next",
+            "product",
+            "price",
+            "pound",
+            "height",
+            "width"
+        ],
+        "synonym": [
+            "attribute",
+            "information",
+            "catalogue",
+            "publishing_house",
+            "day_of_the_month",
+            "alteration",
+            "grade",
+            "figure",
+            "old",
+            "next",
+            "ware",
+            "price",
+            "lb",
+            "tallness",
+            "breadth"
+        ]
+    }
+}
